@@ -1,0 +1,6 @@
+D:\lập trình nâng cao\QLTTTH.Entities\bin\Debug\QLTTTH.Entities.dll
+D:\lập trình nâng cao\QLTTTH.Entities\bin\Debug\QLTTTH.Entities.pdb
+D:\lập trình nâng cao\QLTTTH.Entities\obj\Debug\QLTTTH.Entities.csproj.AssemblyReference.cache
+D:\lập trình nâng cao\QLTTTH.Entities\obj\Debug\QLTTTH.Entities.csproj.CoreCompileInputs.cache
+D:\lập trình nâng cao\QLTTTH.Entities\obj\Debug\QLTTTH.Entities.dll
+D:\lập trình nâng cao\QLTTTH.Entities\obj\Debug\QLTTTH.Entities.pdb
